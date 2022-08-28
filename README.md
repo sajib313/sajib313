@@ -44,8 +44,8 @@ My main focus is to learn <strong>new tools & technologies</strong> and improve 
 
 <h2 align="center"> MY GITHUB STATUS </h2>
 <p align="center">
-  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=Arifulhaque313&show_icons=true&theme=tokyonight&line_height=27">
-  <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifulhaque313&theme=tokyonight">
+  <img title="github stats" src="https://github-readme-stats.vercel.app/api?username=sajib313&show_icons=true&theme=tokyonight&line_height=27">
+  <img title="github stats" height="206" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajib313&theme=tokyonight">
 </p>
 <hr/>
 <h2 align="center"> MY TECH STACK </h2>
